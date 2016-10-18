@@ -1,0 +1,46 @@
+.background{
+	position:relative;
+	background:#f5f5f5;
+	max-width:21%;
+	border-radius: 12.5px;
+	margin:2em;
+	padding:1em;
+}
+
+img.floatleft{
+	position:relative;
+	float:left;
+	width:100px;
+	height:100px;
+	padding-bottom:1em;
+}
+
+h4.header{
+	position:relative;
+	color:#7496b9;
+	font-size:1.2em;
+	margin-left:.5em;
+	top:.7em;
+}
+
+a{
+	text-decoration:none;
+}
+
+p.desc{
+	position:relative;
+	left:10px;
+	top:-1.0em;
+}
+
+p.date{
+	position:relative;
+	left:10px;
+	top:-.3em;
+}
+
+img.morenews{
+	position:relative;
+	top:-3.3em;
+	left:-.8em;
+}
